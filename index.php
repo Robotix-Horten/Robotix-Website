@@ -7,9 +7,6 @@
 <body>
 
 	<?php include "./Resources/php/menu.php"; ?>
-	<ol class="breadcrumb">
-  		<li class="active"><a href="#">Home</a></li>
-	</ol>
 
 	<div class="container">
 		<h1>Nyheter</h1>
