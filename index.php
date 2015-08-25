@@ -7,7 +7,9 @@
 <body>
 
 	<?php include "./Resources/php/menu.php"; ?>
-
+	<ol class="breadcrumb">
+  		<li class="active"><a href="#">Home</a></li>
+	</ol>
 
 	<script type="text/javascript" src="./bower_components/jquery/jquery.min.js"></script>
 	<script type="text/javascript" src="./bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
