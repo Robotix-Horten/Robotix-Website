@@ -6,7 +6,7 @@
 </head>
 <body>
 
-	
+	<?php include "./Resources/php/menu.php"; ?>
 
 
 	<script type="text/javascript" src="./bower_components/jquery/jquery.min.js"></script>
