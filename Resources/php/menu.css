@@ -3,4 +3,13 @@
 	border-top-left-radius: 0;
 
 	margin-bottom: 0;
+
+	border: 0;
+}
+
+.breadcrumb
+{
+	background-color: #F8F8F8;
+
+	border-bottom: 2px;
 }
