@@ -20,8 +20,8 @@
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="navbar">
 		<ul class="nav navbar-nav">
-			<li <?php if ($current == 'index.php') echo 'class="active"' ?>><a href="/">Hjem</a></li>
-			<li <?php if ($current == 'about.php') echo 'class="active"' ?>><a href="/about.php">Om Oss</a></li>
+			<li <?php if ($current == 'index.php') echo 'class="active"' ?>><a href="./">Hjem</a></li>
+			<li <?php if ($current == 'about.php') echo 'class="active"' ?>><a href="./about.php">Om Oss</a></li>
 			<li <?php if ($current == 'program.php') echo 'class="active"' ?>><a href="#">Program</a></li>
 			<li <?php if ($current == 'contact.php') echo 'class="active"' ?>><a href="#">Kontakt</a></li>
 		</ul>
