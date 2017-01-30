@@ -22,7 +22,7 @@
 		<ul class="nav navbar-nav">
 			<li <?php if ($current == 'index.php') echo 'class="active"' ?>><a href="./">Hjem</a></li>
 			<li <?php if ($current == 'about.php') echo 'class="active"' ?>><a href="./about.php">Om Oss</a></li>
-			<li <?php if ($current == 'program.php') echo 'class="active"' ?>><a href="#">Program</a></li>
+			<li <?php if ($current == 'program.php') echo 'class="active"' ?>><a href="./program.php">Program</a></li>
 			<li <?php if ($current == 'contact.php') echo 'class="active"' ?>><a href="#">Kontakt</a></li>
 		</ul>
 		<ul class="nav navbar-nav navbar-right">
