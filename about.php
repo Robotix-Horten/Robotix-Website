@@ -3,7 +3,7 @@
 	require("menu.php");
 ?>
 
-<div class="container-fluid" id="content">
+<div class="container" id="content">
 	<div id="news" class="col-md-7">
 		<h1>Om Oss</h1>
 
@@ -13,7 +13,6 @@
 	</div>
 
 	<div id="showcase" class="col-md-4">
-		<h1>Showcase</h1>
 		<img class="img-responsive" src="resources/pokalene_09.jpg">
 	</div>
 </div>
