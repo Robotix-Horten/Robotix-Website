@@ -4,7 +4,7 @@
 ?>
 
 <div class="container-fluid" id="content">
-	<div id="news" class="col-md-7">
+	<div id="news" class="col-md-offset-2 col-md-5">
 		<h1>Nyheter</h1>
 
 		<div class="news-item">
