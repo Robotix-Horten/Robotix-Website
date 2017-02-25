@@ -1,0 +1,25 @@
+.navbar-default {
+    background-color: #ffffff;
+    background: -webkit-linear-gradient(top, #eca061 0%, #ffffff 100%);
+    background: linear-gradient(to bottom, #eca061 0%, #ffffff 100%);
+    border-width: 0px;
+    border-radius: 0px;
+}
+
+.navbar-default .navbar-nav > .active > a {
+    background-color: rgba(255, 255, 255, 1);
+    background: -webkit-linear-gradient(top, #d38b50 0%, #ffffff 100%);
+    background: linear-gradient(to bottom, #d38b50 0%, #ffffff 100%);
+}
+
+.navbar-brand > img {
+    height: 100%;
+    width: auto;
+}
+
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 75px;
+    height: 75px;
+    padding-top: 0;
+}
