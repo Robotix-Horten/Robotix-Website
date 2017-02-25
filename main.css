@@ -2,6 +2,10 @@
 	color: #999999;
 }
 
+
+
+
+
 html {
   position: relative;
   min-height: 100%;
@@ -18,6 +22,9 @@ body {
   height: 150px;
   background-color: #1c1a1a;
 }
+
+
+
 
 .sponsor {
 	max-height: 150px;
