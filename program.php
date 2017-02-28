@@ -12,56 +12,36 @@
 				<th>Tema</th>
 			</tr>
 			<tr>
-				<td>05. Januar</td>
-				<td>*Infomøte m/foreldre*</td>
+				<td>28. Februar</td>
+				<td>Oppstart</td>
 			</tr>
 			<tr>
-				<td>19. Januar</td>
-				<td>Oppgave/td&gt;
-			</td></tr>
-			<tr>
-				<td>02. Februar</td>
-				<td>Konkurranse</td>
+				<td>14. Mars</td>
+				<td>Oppgave 1</td>
 			</tr>
 			<tr>
-				<td>16. Februar</td>
-				<td>Oppgave</td>
+				<td>28. Mars</td>
+				<td>Oppgave 1</td>
 			</tr>
 			<tr>
-				<td>19 - 20. Februar</td>
-				<td>*LAN*</td>
+				<td>18. April</td>
+				<td>Oppgave 2</td>
+			</tr>i
+			<tr>
+				<td>2. Mai</td>
+				<td>Oppgave 2</td>
 			</tr>
 			<tr>
-				<td>01. Mars</td>
-				<td>Konkurranse</td>
+				<td>16. Mai</td>
+				<td>Oppgave 3</td>
 			</tr>
 			<tr>
-				<td>08. Mars</td>
-				<td>Oppgave</td>
+				<td>30. Mai</td>
+				<td>Oppgave 3</td>
 			</tr>
 			<tr>
-				<td>29. Mars</td>
-				<td>Konkurranse</td>
-			</tr>
-			<tr>
-				<td>12. April</td>
-				<td>Oppgave</td>
-			</tr>
-			<tr>
-				<td>26. April</td>
-				<td>Konkurranse</td>
-			</tr>
-			<tr>
-				<td>10. Mai</td>
-				<td>Oppgave</td>
-			</tr>
-			<tr>
-				<td>24. Mai</td>
-				<td>Konkurranse - (Oppgave?)</td>
-			</tr>
-			<tr>
-				<td>07. Juni</td>
-				<td>*Avslutning m/foreldre (konkurranse?)*</td>
+				<td>13. Juni</td>
+				<td>Avslutning</td>
 			</tr></tbody>
 		</table>
 	</div>
